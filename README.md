@@ -1,1 +1,1 @@
-# This is a learning repository during my ALX SE program
+# This is a learning repository during my ALX S.E. program
